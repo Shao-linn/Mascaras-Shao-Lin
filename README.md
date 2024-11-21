@@ -16,3 +16,11 @@ Reaslistas: ![image](https://github.com/user-attachments/assets/a0ce7c1b-3f26-4a
 
 #Fantasias:
 Halloween: ![image](https://github.com/user-attachments/assets/b464dc13-dbe1-4b7c-9d17-d2bc4716c209)
+
+Natal: ![image](https://github.com/user-attachments/assets/4571f70a-279c-4483-87bc-90ec5cce50b4)
+
+Chaves: ![image](https://github.com/user-attachments/assets/6ca2efe5-7058-4575-b813-bcb6595a0196)
+
+Batman: ![image](https://github.com/user-attachments/assets/1a56b606-bc8f-4300-8b72-07de9a04a016)
+
+La Casa Del Papel:![image](https://github.com/user-attachments/assets/a881180f-bb07-46ea-abaa-5b4ccf85f23d)
